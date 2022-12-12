@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.agrico.co.uk	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	jpm2x4k40qslr3c11uew1xpw
+www.agrico.co.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.agrico.co.uk	TRUE	/	FALSE	1999999999	__RequestVerificationToken	xeikOqUjGlorRDMgB5ZBDv8pzMkM10MWUF5OKGV8byY19z-uIeuTVMknkatUl5FoYTL9SgxqaGGsW-_WCtO-ruXbzd_GnjIMNa2SmyGDdMQ1
+
